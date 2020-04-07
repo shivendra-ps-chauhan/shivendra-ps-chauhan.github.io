@@ -1,0 +1,23 @@
+body{
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png);
+  min-height: 1000px;
+
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+h1:hover{
+  background-color: blue;
+}
+p:hover{
+  background-color: #32a852;
+}
+.form-group{
+  color: yellow;
+}
+a:hover{
+  color:#329ca8;
+}
